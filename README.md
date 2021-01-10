@@ -1,7 +1,7 @@
 # GenX
 
 <h3>Intdoduction</h3>
-A GAMS implementationof the enhanced decision support model specified by Jenkins & Sepulveda is this paper:
+A [GAMS](http://gams.com) implementation of the enhanced decision support model specified by Jenkins & Sepulveda is this paper:
 https://energy.mit.edu/wp-content/uploads/2017/10/Enhanced-Decision-Support-for-a-Changing-Electricity-Landscape.pdf
 
 
